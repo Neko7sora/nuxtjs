@@ -6,7 +6,7 @@
         nuxtjs
       </h1>
       <h2 class="subtitle">
-        My astonishing Nuxt.js project
+        このサイトは、諸事情により放置されています。
       </h2>
       <div class="links">
         <a
@@ -14,14 +14,21 @@
           target="_blank"
           class="button--green"
         >
-          Documentation
+         nuxtjs Documentation
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
           target="_blank"
           class="button--grey"
         >
-          GitHub
+          GitHub(nuxt/nuxt.js)
+        </a>
+        <a
+          href="http://neko7sora.page.link/twitter"
+          target="_blank"
+          class="button--cyan"
+        >
+          Twitter @Nek7sora
         </a>
       </div>
     </div>

@@ -52,4 +52,19 @@ html {
   color: #fff;
   background-color: #35495e;
 }
+
+.button--cyan {
+  display: inline-block;
+  border-radius: 4px;
+  border: 1px solid #002095;
+  color: #002095;
+  text-decoration: none;
+  padding: 10px 30px;
+  margin-left: 15px;
+}
+
+.button--cyan:hover {
+  color: #fff;
+  background-color: #002095;
+}
 </style>
